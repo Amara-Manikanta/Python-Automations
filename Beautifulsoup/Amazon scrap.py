@@ -28,11 +28,11 @@ def send_mail(list):
 
     # message to be sent
     message = "its time for purchasing " + ' , '.join(list)
-    mail_id = ['chessmanikanta@gmail.com', 'chessmanikanta@gmail.com']
+    mail_id = ['**********@gmail.com', '******************@gmail.com']
     for i in mail_id:
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
-        server.login("chessmanikanta@gmail.com", "1156@Ismylife")
+        server.login("*********email*********", "**********pwd*******")
         server.sendmail(mail_id, i, message)
         server.quit()
 
