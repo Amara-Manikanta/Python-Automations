@@ -8,3 +8,4 @@ Sample PythonAutomation Scripts.
 5. Notification
 6. Socket
 7. Threads
+8. word clouds
