@@ -3,9 +3,10 @@ Sample PythonAutomation Scripts.
 
 1. windows Assistant
 2. Audio
-3. Beautiful Soup
-4. Mouse Movement
-5. Notification
-6. Socket
-7. Threads
-8. word clouds
+3. Battery Assistant
+4. Beautiful Soup
+5. Mouse Movement
+6. Notification
+7. Socket
+8. Threads
+9. word clouds
