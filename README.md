@@ -10,3 +10,4 @@ Sample PythonAutomation Scripts.
 7. Socket
 8. Threads
 9. word clouds
+10. Sorting files of the harddisk
