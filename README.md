@@ -11,3 +11,4 @@ Sample PythonAutomation Scripts.
 8. Threads
 9. word clouds
 10. Sorting files of the harddisk
+11. Unzipping multiple zip files through Python Script
